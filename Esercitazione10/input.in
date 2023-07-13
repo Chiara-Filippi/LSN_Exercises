@@ -1,0 +1,8 @@
+500
+34
+0
+2000
+Input >> n_population;
+Input >> n_city;
+Input >> shape;     0 -> circumference  other->square 
+Input >> nstep;
